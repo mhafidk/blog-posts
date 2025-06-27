@@ -1,8 +1,8 @@
 ---
 title: KISS Principle - Yang Simpel Simpel Aja!
 date: 2025-04-12
-created_at: 2025-04-12
-image: kiss-principle.webp
+image: /blog-images/kiss-principle.webp
+slug: kiss-principle-yang-simpel-simpel-aja
 tags:
   - programming
 ---

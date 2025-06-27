@@ -1,7 +1,7 @@
 ---
 title: DRY Principle - Satu Untuk Semua!
 date: 2025-04-12
-image: dry-principle.png
+image: /blog-images/dry-principle.png
 slug: dry-principle-satu-untuk-semua
 tags:
   - programming

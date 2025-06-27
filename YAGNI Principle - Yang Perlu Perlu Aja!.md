@@ -1,7 +1,7 @@
 ---
 title: YAGNI Principle - Yang Perlu Perlu Aja!
 date: 2025-04-12
-image: yagni-principle.webp
+image: /blog-images/yagni-principle.webp
 slug: yagni-principle-yang-perlu-perlu-aja
 tags:
   - programming
