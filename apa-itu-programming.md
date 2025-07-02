@@ -1,7 +1,7 @@
 ---
 title: Apa itu Programming?
 date: 2025-07-02
-image: /blog-images/yagni-principle.webp
+image: /blog-images/apa-itu-programming.webp
 slug: apa-itu-programming
 tags:
   - programming
